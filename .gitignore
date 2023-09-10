@@ -1,0 +1,15 @@
+# python
+__pycache__
+.idea
+venv/
+
+# cfg & private
+config/chromedriver.exe
+config/accs.txt
+
+mafiles/
+150accs/
+
+# trash
+test.py
+chromedriver.exe
